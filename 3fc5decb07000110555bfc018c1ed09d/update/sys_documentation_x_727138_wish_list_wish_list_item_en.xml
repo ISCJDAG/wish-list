@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="item" label="Item" language="en" table="x_727138_wish_list_wish_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <help/>
+            <hint/>
+            <label>Item</label>
+            <language>en</language>
+            <name>x_727138_wish_list_wish_list</name>
+            <plural>Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-30 14:24:22</sys_created_on>
+            <sys_id>4df65e0f07000110555bfc018c1ed021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Item</sys_name>
+            <sys_package display_value="Wish List" source="x_727138_wish_list">3fc5decb07000110555bfc018c1ed09d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">3fc5decb07000110555bfc018c1ed09d</sys_scope>
+            <sys_update_name>sys_documentation_x_727138_wish_list_wish_list_item_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-30 14:24:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
